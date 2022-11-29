@@ -1,0 +1,38 @@
+Let's make pizza 🍕
+Description
+Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
+////////////////////////////////////////////////////////////////////////////////////////
+Ingredients
+For the base
+
+1. 300g strong bread flour
+2. tsp instant yeast (from a sachet or a tub)
+3. 1 tsp salt
+4. 1 tbsp olive oil, plus extra for drizzling
+5. For the tomato sauce
+6. 100ml passata
+7. handful fresh basil or 1 tsp dried
+8. 1 garlic clove, crushed
+9. For the topping
+10. 125g ball mozzarella, sliced
+11. handful grated or shaved parmesan (or vegetarian alternative)
+12. handful of cherry tomatoes, halved
+
+The making 
+
+1. Make the base in a large bowl, add salt, pour in 200ml warm water and oil.
+2. Turn onto a lightly floured surface and knead for 5 mins until smooth.
+3. Cover with a tea towel and set aside. You can leave the dough to rise if you like
+4. Make the sauce: Mix the passata, basil and crushed garlic together, then season to taste.
+5. Leave to stand at room temperature while you get on with shaping the base.
+6. Roll out the dough.
+7. On a floured surface, roll out the dough into large rounds, about 25cm across, using a rolling pin. 
+8. The dough needs to be very thin as it will rise in the oven. Lift the rounds onto two floured baking sheets. 
+9. Top and bake: heat the oven to 240C/220C fan/gas 8. Put another baking sheet or an upturned baking tray in the oven on the top shelf.
+10. Smooth sauce over bases with the back of a spoon.
+11. Scatter with cheese and tomatoes, drizzle with olive oil and season.
+12. Put one pizza, still on its baking sheet, on top of the preheated sheet or tray. Bake for 8-10 mins until crisp.
+13. Serve with a little more olive oil, and basil leaves if using.
+14. Repeat step for remaining pizza.
+
+

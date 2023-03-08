@@ -114,3 +114,5 @@ Design an algorithm to check if a number is even or odd. If it is even, write th
 2. El cofre A afirma que el cofre B contiene el tesoro, procedemos a descartar el cofre B como posible contenedor del tesoro. 
 3. Dada la afirmacion del cobre B de que todos los cofres contienen tesoros, confirmamos que al ser falso, no todos los cofres contienen tesoros. 
 4. Dada la afirmacion del cofre C que expresa que solo un cofre contiene el tesoro, deducimos que en realidad hay dos cofres con tesoros (A, C)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

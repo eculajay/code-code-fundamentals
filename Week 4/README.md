@@ -16,3 +16,12 @@
 ## abs
 ![image](https://user-images.githubusercontent.com/97712003/223622487-cda483f9-7c51-4493-a70c-6a836e62a26b.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## trunc
+![image](https://user-images.githubusercontent.com/97712003/223623517-403386b6-2bae-4a5b-8650-4d825e610a1f.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## redon 
+![image](https://user-images.githubusercontent.com/97712003/223623816-740f7a2d-c3ff-4b5a-be88-6806c67b1416.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+

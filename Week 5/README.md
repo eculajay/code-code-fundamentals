@@ -3,8 +3,6 @@
 
 ## "IF" statement in JavaScript
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <p>var a = 81;  </p>
 <p>if (a > 79) {    </p>
 <p>    console.log("Congratulations! you have a passing score: ",a) </p>

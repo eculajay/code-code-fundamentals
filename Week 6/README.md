@@ -6,4 +6,11 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Week challenges (Wednesday) 💻
+![image](https://user-images.githubusercontent.com/97712003/224471709-3c6bc1cc-e870-4d98-8017-c5f24d189514.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Week challenges (Thursday) 💻
+![image](https://user-images.githubusercontent.com/97712003/224471733-b690c373-61a2-4df4-9fab-1646fd4aaf3d.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 

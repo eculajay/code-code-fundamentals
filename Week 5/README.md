@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/97712003/223931171-0f2a010d-45dd-425b-81b9-deb909b948d3.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## "FOR" Loops
+## 'FOR' Loops in JavaScript
 ![image](https://user-images.githubusercontent.com/97712003/223932993-2dffc508-cded-4533-973e-8eaacdf18a46.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

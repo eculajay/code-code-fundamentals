@@ -11,4 +11,4 @@
     return dates.replace(/-/g, "/");
 
   }
-  console.log(normalize())
+  console.log(normalize());
